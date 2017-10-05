@@ -1,0 +1,23 @@
+.carrierID {
+    text-align: right;
+    font-weight: bold;
+}
+
+.carrierIDHeader {
+    text-align: right;
+}
+
+.flexHelper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#modalClose {
+    margin-top: 1em;
+}
+
+.viewMore > button {
+    margin: 1em;
+}
+
